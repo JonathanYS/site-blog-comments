@@ -1,2 +1,2 @@
-# site-blog-comments
+# Blog Comments
  JonathanYS's Website's Comments
